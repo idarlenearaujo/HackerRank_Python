@@ -1,7 +1,7 @@
 #!/bin/python3
 import sys
 
-# variaveis
+# variavel
 lista = []
 
 # numero de numeros no array
