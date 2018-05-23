@@ -10,3 +10,8 @@ Desafio dos 30 dias:
     Day 5: Loops.
     Day 6: Let's Review.
     Day 7: Arrays.
+    Day 8: Dictionaries and Maps.
+    Day 9: Recursion.
+    Day 10: Binary Numbers.
+    Day 11: 2D Arrays.
+    Day 12: Inheritance.
